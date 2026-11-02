@@ -1,0 +1,25 @@
+SOFTWARE DEVELOPMENT SERVICE AGREEMENT
+
+This Agreement is made on 1 January 2025 between ABC Technologies Pvt. Ltd. ("Client"), having its office at Chennai, and XYZ Solutions Pvt. Ltd. ("Service Provider"), having its office at Coimbatore.
+
+1. PURPOSE
+The Service Provider shall design, develop and deliver a web-based inventory management software for the Client.
+
+2. DURATION
+This Agreement is effective from 1 January 2025 and shall remain in force for 12 months, ending on 31 December 2025, unless terminated earlier.
+
+3. OBLIGATIONS
+3.1 The Service Provider shall deliver the software in three milestones: 31 March 2025, 30 June 2025 and 30 September 2025.
+3.2 The Client shall provide all required data, access and timely feedback.
+
+4. PAYMENT TERMS
+The Client shall pay a total fee of INR 12,00,000, payable in three equal instalments upon completion of each milestone. Invoices must be settled within 15 days of receipt. Late payments attract interest of 1.5% per month.
+
+5. CONFIDENTIALITY
+Both parties shall keep all confidential information secret during the term and for 3 years after termination.
+
+6. TERMINATION
+Either party may terminate this Agreement with 30 days' written notice. Either party may terminate immediately if the other commits a material breach that is not cured within 15 days of notice.
+
+7. GOVERNING LAW
+This Agreement is governed by the laws of India. Disputes shall be referred to arbitration in Chennai.
